@@ -1,0 +1,12 @@
+# Fichiers MATLAB générés
+*.mat
+*.asv
+*.m~
+
+# Figures sauvegardées
+*.fig
+*.png
+*.jpg
+
+# Dossiers MATLAB
+slprj/
